@@ -17,10 +17,7 @@ rtmp://5.182.231.251//2178
 http://91.220.135.165:81/76/tracks-v1a1v1/playlist.m3u8
 #EXTINF:0 ,LTV7
 http://91.233.215.250:7272/V7TDZTlhBTRzVf9
-#EXTINF:0 ,TV8 LT
-http://88.216.83.245/tv8/index.m3u8
-#EXTINF:0 ,TV6 LV
-http://88.216.83.245/tv6/index.m3u8
 #EXTINF:0 ,TV3 LT
 http://88.216.83.245/tv3/index.m3u8
+
 
