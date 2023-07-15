@@ -8,7 +8,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:0 ,Рен ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:0 ,ТВЦ
-rtmp://178.159.112.198//tvc
+https://tbs01-edge11.itdc.ge/tvc/tracks-v1a1/mono.m3u8
 #EXTINF:0 ,Усадьба
 https://tbs01-edge11.itdc.ge/usadba/tracks-v1a1/mono.m3u8
 #EXTINF:0 ,БЕЛАРУСЬ 1 HD
