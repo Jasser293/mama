@@ -6,7 +6,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:0 ,Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:0 ,Рен ТВ
-http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u
 #EXTINF:0 ,ТВЦ
 https://tbs01-edge11.itdc.ge/tvc/tracks-v1a1/mono.m3u8
 #EXTINF:0 ,Усадьба
