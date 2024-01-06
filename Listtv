@@ -1,37 +1,37 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz"
 #EXTINF:0 tvg-rec="7",Первый канал
 #EXTGRP:Общие
-http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/127/index.m3u8
+http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/127/index.m3u8
 #EXTINF:0 tvg-rec="7",Россия 1
 #EXTGRP:Общие
-http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/504/index.m3u8
+http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/504/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ
 #EXTGRP:Общие
-http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/501/index.m3u8
+http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/501/index.m3u8
 #EXTINF:0 tvg-rec="7",Рен ТВ
 #EXTGRP:Общие
-http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/128/index.m3u8
+http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/128/index.m3u8
 #EXTINF:0 tvg-rec="3",Беларусь 1
 #EXTGRP:беларускія
-http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/2170/index.m3u8
+http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/2170/index.m3u8
 #EXTINF:0 tvg-rec="3",Беларусь 24
 #EXTGRP:беларускія
-http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/1061/index.m3u8
+http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/1061/index.m3u8
 #EXTINF:0 tvg-rec="7",Домашний
 #EXTGRP:Общие
-http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/514/index.m3u8
+http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/514/index.m3u8
 #EXTINF:0 tvg-rec="7",Усадьба
 #EXTGRP:Познавательные
-http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/532/index.m3u8
+http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/532/index.m3u8
 #EXTINF:0 tvg-rec="7",Бобёр
 #EXTGRP:Познавательные
-http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/725/index.m3u8
+http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/725/index.m3u8
 #EXTINF:0 tvg-rec="3",LTV7 HD LV
 #EXTGRP:Литва | Lithuania
-http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/6354/index.m3u8
+http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/6354/index.m3u8
 #EXTINF:0 tvg-rec="3",LRT TV LT
 #EXTGRP:Литва | Lithuania
-http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/6356/index.m3u8
+http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/6356/index.m3u8
 #EXTINF:0 tvg-rec="3",TV3 LT
 #EXTGRP:Литва | Lithuania
-http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/6349/index.m3u8
+http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/6349/index.m3u8
