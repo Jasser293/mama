@@ -1,38 +1,37 @@
-#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
-#EXTINF:0 tvg-id="1" tvg-logo="http://epg.cdntv.online/img/1.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Первый канал
-#EXTGRP:Федеральные
-http://cdntv.online/high/n56pm7wehx/1.m3u8
-#EXTINF:0 tvg-id="2" tvg-logo="http://epg.cdntv.online/img/2.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Россия 1
-#EXTGRP:Федеральные
-http://cdntv.online/high/n56pm7wehx/2.m3u8
-#EXTINF:0 tvg-id="4" tvg-logo="http://epg.cdntv.online/img/4.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", НТВ
-#EXTGRP:Федеральные
-http://cdntv.online/high/n56pm7wehx/4.m3u8
-#EXTINF:0 tvg-id="11" tvg-logo="http://epg.cdntv.online/img/11.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Рен ТВ
-#EXTGRP:Федеральные
-http://cdntv.online/high/n56pm7wehx/11.m3u8
-#EXTINF:0 tvg-id="770" tvg-logo="http://epg.cdntv.online/img/770.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", Беларусь 1
-#EXTGRP:Беларусь
-http://cdntv.online/high/n56pm7wehx/770.m3u8
-#EXTINF:0 tvg-id="281" tvg-logo="http://epg.cdntv.online/img/281.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", Беларусь 24
-#EXTGRP:Беларусь
-http://cdntv.online/high/n56pm7wehx/281.m3u8
-#EXTINF:0 tvg-id="14" tvg-logo="http://epg.cdntv.online/img/14.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Домашний
-#EXTGRP:Федеральные
-http://cdntv.online/high/n56pm7wehx/14.m3u8
-#EXTINF:0 tvg-id="357" tvg-logo="http://epg.cdntv.online/img/357.png" group-title="Познавательные", Усадьба
+#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz"
+#EXTINF:0 tvg-rec="7",Первый канал
+#EXTGRP:Общие
+http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/127/index.m3u8
+#EXTINF:0 tvg-rec="7",Россия 1
+#EXTGRP:Общие
+http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/504/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ
+#EXTGRP:Общие
+http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/501/index.m3u8
+#EXTINF:0 tvg-rec="7",Рен ТВ
+#EXTGRP:Общие
+http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/128/index.m3u8
+#EXTINF:0 tvg-rec="3",Беларусь 1
+#EXTGRP:беларускія
+http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/2170/index.m3u8
+#EXTINF:0 tvg-rec="3",Беларусь 24
+#EXTGRP:беларускія
+http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/1061/index.m3u8
+#EXTINF:0 tvg-rec="7",Домашний
+#EXTGRP:Общие
+http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/514/index.m3u8
+#EXTINF:0 tvg-rec="7",Усадьба
 #EXTGRP:Познавательные
-http://cdntv.online/high/n56pm7wehx/357.m3u8
-#EXTINF:0 tvg-id="322" tvg-logo="http://epg.cdntv.online/img/322.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Бобёр
+http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/532/index.m3u8
+#EXTINF:0 tvg-rec="7",Бобёр
 #EXTGRP:Познавательные
-http://cdntv.online/high/n56pm7wehx/322.m3u8
-#EXTINF:-1 ,LTV 7
-#EXTGRP:Федеральные
-http://ott.watch/stream/VYU4461VHX/371.m3u8
-#EXTINF:-1 ,TV3 HD
-#EXTGRP:Федеральные
-http://ott.watch/stream/VYU4461VHX/29.m3u8
-#EXTINF:-1 ,LRT HD
-#EXTGRP:Федеральные
-http://ott.watch/stream/VYU4461VHX/31.m3u8
-
+http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/725/index.m3u8
+#EXTINF:0 tvg-rec="3",LTV7 HD LV
+#EXTGRP:Литва | Lithuania
+http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/6354/index.m3u8
+#EXTINF:0 tvg-rec="3",LRT TV LT
+#EXTGRP:Литва | Lithuania
+http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/6356/index.m3u8
+#EXTINF:0 tvg-rec="3",TV3 LT
+#EXTGRP:Литва | Lithuania
+http://f43aa783.edemist.com/iptv/E2KZC96ESURDWW/6349/index.m3u8
