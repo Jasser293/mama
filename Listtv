@@ -1,17 +1,37 @@
-#EXTM3U
-#EXTINF:-1 ,Первый канал
-http://31.28.54.195:4022/udp/232.0.3.1:1234
-#EXTINF:-1 ,РЕН ТВ
-http://31.28.54.195:4022/udp/232.0.3.11:1234
-#EXTINF:-1 ,Россия 
-http://31.28.54.195:4022/udp/232.0.3.2:1234
-#EXTINF:-1 ,ТВ Центр
-http://31.28.54.195:4022/udp/232.0.3.10:1234
-#EXTINF:-1 ,ОТР
-http://31.28.54.195:4022/udp/232.0.3.9:1234
-#EXTINF:-1 ,Мир 24
-http://31.28.54.195:4022/udp/232.0.1.9:1234
-#EXTINF:-1 ,Звезда
-http://31.28.54.195:4022/udp/232.0.3.17:1234
-#EXTINF:-1 ,Культура
-http://31.28.54.195:4022/udp/232.0.3.6:1234
+#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
+#EXTINF:0 tvg-id="1" tvg-logo="http://epg.cdntv.online/img/1.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Первый канал
+#EXTGRP:Федеральные
+http://cdntv.online/high/n56pm7wehx/1.m3u8
+#EXTINF:0 tvg-id="2" tvg-logo="http://epg.cdntv.online/img/2.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Россия 1
+#EXTGRP:Федеральные
+http://cdntv.online/high/n56pm7wehx/2.m3u8
+#EXTINF:0 tvg-id="4" tvg-logo="http://epg.cdntv.online/img/4.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", НТВ
+#EXTGRP:Федеральные
+http://cdntv.online/high/n56pm7wehx/4.m3u8
+#EXTINF:0 tvg-id="11" tvg-logo="http://epg.cdntv.online/img/11.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Рен ТВ
+#EXTGRP:Федеральные
+http://cdntv.online/high/n56pm7wehx/11.m3u8
+#EXTINF:0 tvg-id="770" tvg-logo="http://epg.cdntv.online/img/770.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", Беларусь 1
+#EXTGRP:Беларусь
+http://cdntv.online/high/n56pm7wehx/770.m3u8
+#EXTINF:0 tvg-id="281" tvg-logo="http://epg.cdntv.online/img/281.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", Беларусь 24
+#EXTGRP:Беларусь
+http://cdntv.online/high/n56pm7wehx/281.m3u8
+#EXTINF:0 tvg-id="14" tvg-logo="http://epg.cdntv.online/img/14.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Домашний
+#EXTGRP:Федеральные
+http://cdntv.online/high/n56pm7wehx/14.m3u8
+#EXTINF:0 tvg-id="357" tvg-logo="http://epg.cdntv.online/img/357.png" group-title="Познавательные", Усадьба
+#EXTGRP:Познавательные
+http://cdntv.online/high/n56pm7wehx/357.m3u8
+#EXTINF:0 tvg-id="322" tvg-logo="http://epg.cdntv.online/img/322.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Бобёр
+#EXTGRP:Познавательные
+http://cdntv.online/high/n56pm7wehx/322.m3u8
+#EXTINF:-1 ,LTV 7
+#EXTGRP:Федеральные
+http://ott.watch/stream/VYU4461VHX/371.m3u8
+#EXTINF:-1 ,TV3 HD
+#EXTGRP:Федеральные
+http://ott.watch/stream/VYU4461VHX/29.m3u8
+#EXTINF:-1 ,LRT HD
+#EXTGRP:Федеральные
+http://ott.watch/stream/VYU4461VHX/31.m3u8
