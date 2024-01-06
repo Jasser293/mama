@@ -35,3 +35,6 @@ http://ott.watch/stream/VYU4461VHX/29.m3u8
 #EXTINF:-1 ,LRT HD
 #EXTGRP:Федеральные
 http://ott.watch/stream/VYU4461VHX/31.m3u8
+#EXTINF:-1 ,Индийское кино
+#EXTGRP:Федеральные
+http://188.113.190.15/329/video.m3u8
