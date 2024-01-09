@@ -8,6 +8,9 @@ http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/504/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ
 #EXTGRP:Общие
 http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/501/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ Право
+#EXTGRP:другие
+http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/743/index.m3u8
 #EXTINF:0 tvg-rec="7",Рен ТВ
 #EXTGRP:Общие
 http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/128/index.m3u8
