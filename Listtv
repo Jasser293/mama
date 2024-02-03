@@ -1,42 +1,40 @@
-#EXTM3U
-#EXTINF:0 tvg-rec="7",Первый канал
-#EXTGRP:Общие
-http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/127/index.m3u8
-#EXTINF:0 tvg-rec="7",Россия 1
-#EXTGRP:Общие
-http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/504/index.m3u8
-#EXTINF:0 tvg-rec="7",НТВ
-#EXTGRP:Общие
-http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/501/index.m3u8
-#EXTINF:0 tvg-rec="7",НТВ Право
-#EXTGRP:другие
-http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/743/index.m3u8
-#EXTINF:0 tvg-rec="7",Рен ТВ
-#EXTGRP:Общие
-http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/128/index.m3u8
-#EXTINF:0 tvg-rec="3",Беларусь 1
-#EXTGRP:беларускія
-http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/2170/index.m3u8
-#EXTINF:0 tvg-rec="3",Беларусь 24
-#EXTGRP:беларускія
-http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/1061/index.m3u8
-#EXTINF:0 tvg-rec="7",Домашний
-#EXTGRP:Общие
-http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/514/index.m3u8
-#EXTINF:0 tvg-rec="7",Усадьба
+#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz,https://gw.ottservice.org/epg/download/epg.xml.gz"
+#EXTINF:0 tvg-id="29" tvg-logo="http://epg.cdntv.online/img/29.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Первый канал HD
+#EXTGRP:Федеральные
+http://cdntv.online/high/h2jpvsbnky/29.m3u8
+#EXTINF:0 tvg-id="33" tvg-logo="http://epg.cdntv.online/img/33.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Россия 1 HD
+#EXTGRP:Федеральные
+http://cdntv.online/high/h2jpvsbnky/33.m3u8
+#EXTINF:0 tvg-id="388" tvg-logo="http://epg.cdntv.online/img/388.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Рен ТВ HD
+#EXTGRP:Федеральные
+http://cdntv.online/high/h2jpvsbnky/388.m3u8
+#EXTINF:0 tvg-id="360" tvg-logo="http://epg.cdntv.online/img/360.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", НТВ HD
+#EXTGRP:Федеральные
+http://cdntv.online/high/h2jpvsbnky/360.m3u8
+#EXTINF:0 tvg-id="340" tvg-logo="http://epg.cdntv.online/img/340.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", НТВ Право
 #EXTGRP:Познавательные
-http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/532/index.m3u8
-#EXTINF:0 tvg-rec="7",Бобёр
+http://cdntv.online/high/h2jpvsbnky/340.m3u8
+#EXTINF:0 tvg-id="997" tvg-logo="http://epg.cdntv.online/img/997.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", Беларусь 1 HD
+#EXTGRP:Беларусь
+http://cdntv.online/high/h2jpvsbnky/997.m3u8
+#EXTINF:0 tvg-id="999" tvg-logo="http://epg.cdntv.online/img/999.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", Беларусь 24 HD
+#EXTGRP:Беларусь
+http://cdntv.online/high/h2jpvsbnky/999.m3u8
+#EXTINF:0 tvg-id="14" tvg-logo="http://epg.cdntv.online/img/14.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Домашний
+#EXTGRP:Федеральные
+http://cdntv.online/high/h2jpvsbnky/14.m3u8
+#EXTINF:0 tvg-id="322" tvg-logo="http://epg.cdntv.online/img/322.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Бобёр
 #EXTGRP:Познавательные
-http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/725/index.m3u8
-#EXTINF:0 tvg-rec="3",LTV7 HD LV
-#EXTGRP:Литва | Lithuania
-http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/6354/index.m3u8
-#EXTINF:0 tvg-rec="3",TV3 LT
-#EXTGRP:Литва | Lithuania
-http://ee5a8c6c.edemist.com/iptv/KCP9ME549HSR4C/6349/index.m3u8
-#http://ott.watch/stream/TQM52U7KY3/29.m3u8
-
-
-
-
+http://cdntv.online/high/h2jpvsbnky/322.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Усадьба
+#EXTGRP:Познавательные
+http://ott.watch/stream/AB2BQ2JU2G/211.m3u8
+#EXTINF:0 tvg-id="326" tvg-logo="http://epg.cdntv.online/img/326.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Доктор
+#EXTGRP:Познавательные
+http://cdntv.online/high/h2jpvsbnky/326.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",LTV 7 HD (Латвия)
+#EXTGRP:Национальные
+http://ott.watch/stream/AB2BQ2JU2G/371.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",TV3 HD (Литва)
+#EXTGRP:Национальные
+http://ott.watch/stream/AB2BQ2JU2G/29.m3u8
