@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz,https://gw.ottservice.org/epg/download/epg.xml.gz"
+#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
 #EXTINF:0 tvg-id="29" tvg-logo="http://epg.cdntv.online/img/29.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Первый канал HD
 #EXTGRP:Федеральные
 http://cdntv.online/high/h2jpvsbnky/29.m3u8
