@@ -31,10 +31,10 @@ http://cdntv.online/high/h2jpvsbnky/322.m3u8
 http://ott.watch/stream/AB2BQ2JU2G/211.m3u8
 #EXTINF:0 tvg-id="326" tvg-logo="http://epg.cdntv.online/img/326.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Доктор
 #EXTGRP:Познавательные
-http://cdntv.online/high/h2jpvsbnky/326.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",LTV 7 HD (Латвия)
+#http://cdntv.online/high/h2jpvsbnky/326.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",LTV 7
 #EXTGRP:Национальные
 http://ott.watch/stream/AB2BQ2JU2G/371.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",TV3 HD (Литва)
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",TV3
 #EXTGRP:Национальные
 http://ott.watch/stream/AB2BQ2JU2G/29.m3u8
