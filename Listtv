@@ -38,5 +38,4 @@ http://ott.watch/stream/AB2BQ2JU2G/371.m3u8
 #EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",TV3
 #EXTGRP:Национальные
 http://ott.watch/stream/AB2BQ2JU2G/29.m3u8
-#EXTINF:-1 ,Россия К
-http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
+
