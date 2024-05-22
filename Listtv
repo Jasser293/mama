@@ -13,7 +13,7 @@ http://194.58.96.152/high/n56pm7wehx/388.m3u8
 http://194.58.96.152/high/n56pm7wehx/360.m3u8
 #EXTINF:0 tvg-id="10" tvg-logo="http://epg.cdntv.online/img/10.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ТВ Центр
 #EXTGRP:Федеральные
-https://194.58.96.152/high/n56pm7wehx/10.m3u8
+http://194.58.96.152/high/n56pm7wehx/10.m3u8
 #EXTINF:0 tvg-id="340" tvg-logo="http://epg.194.58.96.152/img/340.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", НТВ Право
 #EXTGRP:Познавательные
 http://194.58.96.152/high/n56pm7wehx/340.m3u8
