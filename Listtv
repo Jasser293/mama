@@ -31,13 +31,13 @@ http://194.58.96.152/high/6uys54rjvc/14.m3u8
 http://194.58.96.152/high/6uys54rjvc/322.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Усадьба
 #EXTGRP:Познавательные
-http://94.23.77.69/stream/AB2BQ2JU2G/211.m3u8
+http://94.23.77.69/stream/D3WKJIJ9YF/211.m3u8
 #EXTINF:0 tvg-id="326" tvg-logo="http://epg.194.58.96.152/img/326.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Доктор
 #EXTGRP:Познавательные
 #http://194.58.96.152/high/6uys54rjvc/326.m3u8
 #EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",LTV 7
 #EXTGRP:Национальные
-http://94.23.77.69/stream/AB2BQ2JU2G/371.m3u8
+http://94.23.77.69/stream/D3WKJIJ9YF/371.m3u8
 #EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",TV3
 #EXTGRP:Национальные
-http://94.23.77.69/stream/AB2BQ2JU2G/29.m3u8
+http://94.23.77.69/stream/D3WKJIJ9YF/29.m3u8
