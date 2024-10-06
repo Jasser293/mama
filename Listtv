@@ -1,34 +1,34 @@
 #EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
 #EXTINF:0 tvg-id="29" tvg-logo="http://epg.194.58.96.152/img/29.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Первый канал HD
 #EXTGRP:Федеральные
-http://194.58.96.152/high/6uys54rjvc/29.m3u8
+http://194.58.96.152/high/h2jpvsbnky/29.m3u8
 #EXTINF:0 tvg-id="33" tvg-logo="http://epg.194.58.96.152/img/33.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Россия 1 HD
 #EXTGRP:Федеральные
-http://194.58.96.152/high/6uys54rjvc/33.m3u8
+http://194.58.96.152/high/h2jpvsbnky/33.m3u8
 #EXTINF:0 tvg-id="388" tvg-logo="http://epg.194.58.96.152/img/388.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Рен ТВ HD
 #EXTGRP:Федеральные
-http://194.58.96.152/high/6uys54rjvc/388.m3u8
+http://194.58.96.152/high/h2jpvsbnky/388.m3u8
 #EXTINF:0 tvg-id="360" tvg-logo="http://epg.194.58.96.152/img/360.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", НТВ HD
 #EXTGRP:Федеральные
-http://194.58.96.152/high/6uys54rjvc/360.m3u8
+http://194.58.96.152/high/h2jpvsbnky/360.m3u8
 #EXTINF:0 tvg-id="10" tvg-logo="http://epg.cdntv.online/img/10.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ТВ Центр
 #EXTGRP:Федеральные
-http://194.58.96.152/high/6uys54rjvc/10.m3u8
+http://194.58.96.152/high/h2jpvsbnky/10.m3u8
 #EXTINF:0 tvg-id="340" tvg-logo="http://epg.194.58.96.152/img/340.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", НТВ Право
 #EXTGRP:Познавательные
-http://194.58.96.152/high/6uys54rjvc/340.m3u8
+http://194.58.96.152/high/h2jpvsbnky/340.m3u8
 #EXTINF:0 tvg-id="997" tvg-logo="http://epg.194.58.96.152/img/997.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", Беларусь 1 HD
 #EXTGRP:Беларусь
-http://194.58.96.152/high/6uys54rjvc/997.m3u8
+http://194.58.96.152/high/h2jpvsbnky/997.m3u8
 #EXTINF:0 tvg-id="999" tvg-logo="http://epg.194.58.96.152/img/999.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", Беларусь 24 HD
 #EXTGRP:Беларусь
-http://194.58.96.152/high/6uys54rjvc/999.m3u8
+http://194.58.96.152/high/h2jpvsbnky/999.m3u8
 #EXTINF:0 tvg-id="14" tvg-logo="http://epg.194.58.96.152/img/14.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Домашний
 #EXTGRP:Федеральные
-http://194.58.96.152/high/6uys54rjvc/14.m3u8
+http://194.58.96.152/high/h2jpvsbnky/14.m3u8
 #EXTINF:0 tvg-id="322" tvg-logo="http://epg.194.58.96.152/img/322.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Бобёр
 #EXTGRP:Познавательные
-http://194.58.96.152/high/6uys54rjvc/322.m3u8
+http://194.58.96.152/high/h2jpvsbnky/322.m3u8
 #EXTINF:0 tvg-rec="0",Усадьба HD
 #EXTGRP:HD
 http://185.193.88.10/iptv/UR6P2GPDBCW6UB/9071/index.m3u8
@@ -41,4 +41,3 @@ http://185.193.88.10/iptv/UR6P2GPDBCW6UB/6354/index.m3u8
 #EXTINF:0 tvg-rec="3",TV3 LT
 #EXTGRP:другие
 http://185.193.88.10/iptv/UR6P2GPDBCW6UB/6349/index.m3u8
-
