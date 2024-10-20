@@ -31,10 +31,12 @@ http://194.58.96.152/high/n56pm7wehx/14.m3u8
 http://194.58.96.152/high/n56pm7wehx/322.m3u8
 #EXTINF:0 tvg-rec="0",Усадьба
 #EXTGRP:HD
-http://185.193.88.10/iptv/UR6P2GPDBCW6UB/9071/index.m3u8
+http://dmi3y-tv.ru/hls/CH_USADBA.m3u8
+#http://185.193.88.10/iptv/UR6P2GPDBCW6UB/9071/index.m3u8
 #EXTINF:0 tvg-rec="0",Доктор
 #EXTGRP:познавательные
-http://185.193.88.10/iptv/UR6P2GPDBCW6UB/20013/index.m3u8
+http://dmi3y-tv.ru/hls/CH_DOKTOR.m3u8
+#http://185.193.88.10/iptv/UR6P2GPDBCW6UB/20013/index.m3u8
 #EXTINF:0 tvg-rec="3",LTV7 HD LV
 #EXTGRP:другие
 http://tinyurl.com/4ys9y7vv
