@@ -19,7 +19,8 @@ http://194.58.96.152/high/n56pm7wehx/10.m3u8
 http://194.58.96.152/high/n56pm7wehx/340.m3u8
 #EXTINF:0 tvg-id="997" tvg-logo="http://epg.194.58.96.152/img/997.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", Беларусь 1 HD
 #EXTGRP:Беларусь
-http://194.58.96.152/high/n56pm7wehx/997.m3u8
+http://86.57.178.105:8421/bel1
+#http://194.58.96.152/high/n56pm7wehx/997.m3u8
 #EXTINF:0 tvg-id="999" tvg-logo="http://epg.194.58.96.152/img/999.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", Беларусь 24 HD
 #EXTGRP:Беларусь
 http://194.58.96.152/high/n56pm7wehx/999.m3u8
@@ -31,11 +32,11 @@ http://194.58.96.152/high/n56pm7wehx/14.m3u8
 http://194.58.96.152/high/n56pm7wehx/322.m3u8
 #EXTINF:0 tvg-rec="0",Усадьба
 #EXTGRP:HD
-http://dmi3y-tv.ru/hls/CH_USADBA.m3u8
+http://194.158.218.123:8880/Usadba/index.m3u8
 #http://185.193.88.10/iptv/UR6P2GPDBCW6UB/9071/index.m3u8
 #EXTINF:0 tvg-rec="0",Доктор
 #EXTGRP:познавательные
-http://130.193.73.10:8937/play/a01q
+http://178.57.121.38:8080/doctor/index.m3u8?token=test
 #http://185.193.88.10/iptv/UR6P2GPDBCW6UB/20013/index.m3u8
 #EXTINF:0 tvg-rec="3",LTV7 HD LV
 #EXTGRP:другие
