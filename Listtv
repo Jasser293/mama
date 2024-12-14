@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://84.38.182.201/lite.xml.gz"
+#EXTM3U
 #EXTINF:0 tvg-id="29" tvg-logo="http://epg.194.58.96.152/img/29.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Первый канал HD
 #EXTGRP:Федеральные
 http://194.58.96.152/high/n56pm7wehx/29.m3u8
