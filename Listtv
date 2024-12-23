@@ -1,48 +1,43 @@
 #EXTM3U
-#EXTINF:0 tvg-id="29" tvg-logo="http://epg.194.58.96.152/img/29.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Первый канал HD
-#EXTGRP:Федеральные
-http://194.58.96.152/high/n56pm7wehx/29.m3u8
-#EXTINF:0 tvg-id="33" tvg-logo="http://epg.194.58.96.152/img/33.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Россия 1 HD
-#EXTGRP:Федеральные
-http://194.58.96.152/high/n56pm7wehx/33.m3u8
-#EXTINF:0 tvg-id="388" tvg-logo="http://epg.194.58.96.152/img/388.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Рен ТВ HD
-#EXTGRP:Федеральные
-http://194.58.96.152/high/n56pm7wehx/388.m3u8
-#EXTINF:0 tvg-id="360" tvg-logo="http://epg.194.58.96.152/img/360.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", НТВ HD
-#EXTGRP:Федеральные
-http://194.58.96.152/high/n56pm7wehx/360.m3u8
-#EXTINF:0 tvg-id="10" tvg-logo="http://epg.cdntv.online/img/10.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ТВ Центр
-#EXTGRP:Федеральные
-http://194.58.96.152/high/n56pm7wehx/10.m3u8
-#EXTINF:0 tvg-id="340" tvg-logo="http://epg.194.58.96.152/img/340.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", НТВ Право
-#EXTGRP:Познавательные
-http://194.58.96.152/high/n56pm7wehx/340.m3u8
-#EXTINF:0 tvg-id="997" tvg-logo="http://epg.194.58.96.152/img/997.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", Беларусь 1 HD
-#EXTGRP:Беларусь
-http://86.57.178.105:8421/bel1
-#http://194.58.96.152/high/n56pm7wehx/997.m3u8
-#EXTINF:0 tvg-id="999" tvg-logo="http://epg.194.58.96.152/img/999.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", Беларусь 24 HD
-#EXTGRP:Беларусь
-http://194.58.96.152/high/n56pm7wehx/999.m3u8
-#EXTINF:0 tvg-id="14" tvg-logo="http://epg.194.58.96.152/img/14.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Домашний
-#EXTGRP:Федеральные
-http://194.58.96.152/high/n56pm7wehx/14.m3u8
-#EXTINF:0 tvg-id="322" tvg-logo="http://epg.194.58.96.152/img/322.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Бобёр
-#EXTGRP:Познавательные
-http://194.58.96.152/high/n56pm7wehx/322.m3u8
-#EXTINF:0 tvg-rec="0",Усадьба
+#EXTINF:0 tvg-rec="7",Первый канал HD
 #EXTGRP:HD
-http://194.158.218.123:8880/Usadba/index.m3u8
-#http://185.193.88.10/iptv/UR6P2GPDBCW6UB/9071/index.m3u8
-#EXTINF:0 tvg-rec="0",Доктор
+http://185.156.74.112/iptv/UR6P2GPDBCW6UB/204/index.m3u8
+#EXTINF:0 tvg-rec="7",Россия 1 HD
+#EXTGRP:HD
+http://185.156.74.112/iptv/UR6P2GPDBCW6UB/205/index.m3u8
+#EXTINF:0 tvg-rec="7",Рен ТВ HD
+#EXTGRP:HD
+http://185.156.74.112/iptv/UR6P2GPDBCW6UB/2024/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ HD
+#EXTGRP:HD
+http://185.156.74.112/iptv/UR6P2GPDBCW6UB/213/index.m3u8
+#EXTINF:0 tvg-rec="7",ТВЦ
+#EXTGRP:другие
+http://185.156.74.112/iptv/UR6P2GPDBCW6UB/520/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ Право
+#EXTGRP:другие
+http://185.156.74.112/iptv/UR6P2GPDBCW6UB/743/index.m3u8
+#EXTINF:0 tvg-rec="3",Беларусь 1
+#EXTGRP:беларускія
+http://185.156.74.112/iptv/UR6P2GPDBCW6UB/2170/index.m3u8
+#EXTINF:0 tvg-rec="3",Беларусь 24
+#EXTGRP:беларускія
+http://185.156.74.112/iptv/UR6P2GPDBCW6UB/1061/index.m3u8
+#EXTINF:0 tvg-rec="7",Домашний
+#EXTGRP:другие
+http://185.156.74.112/iptv/UR6P2GPDBCW6UB/15116/index.m3u8
+#EXTINF:0 tvg-rec="7",Бобёр
 #EXTGRP:познавательные
-http://178.57.121.38:8080/doctor/index.m3u8?token=test
-#http://185.193.88.10/iptv/UR6P2GPDBCW6UB/20013/index.m3u8
+http://185.156.74.112/iptv/UR6P2GPDBCW6UB/725/index.m3u8
+#EXTINF:0 tvg-rec="7",Усадьба
+#EXTGRP:познавательные
+http://185.156.74.112/iptv/UR6P2GPDBCW6UB/532/index.m3u8
+#EXTINF:0 tvg-rec="7",Доктор
+#EXTGRP:познавательные
+http://185.156.74.112/iptv/UR6P2GPDBCW6UB/512/index.m3u8
 #EXTINF:0 tvg-rec="3",LTV7 HD LV
 #EXTGRP:другие
-http://tinyurl.com/4ys9y7vv
-#http://185.193.88.10/iptv/UR6P2GPDBCW6UB/6354/index.m3u8
+http://185.156.74.112/iptv/UR6P2GPDBCW6UB/6354/index.m3u8
 #EXTINF:0 tvg-rec="3",TV3 LT
 #EXTGRP:другие
-http://194.204.46.137:80/live/eds/TV3_LT_SD/GO3_LIVE_HLS/TV3_LT_SD.m3u8
-#http://185.193.88.10/iptv/UR6P2GPDBCW6UB/6349/index.m3u8
+http://185.156.74.112/iptv/UR6P2GPDBCW6UB/6349/index.m3u8
