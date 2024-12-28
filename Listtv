@@ -19,8 +19,7 @@ http://185.156.74.112/iptv/UR6P2GPDBCW6UB/520/index.m3u8
 http://185.156.74.112/iptv/UR6P2GPDBCW6UB/743/index.m3u8
 #EXTINF:0 tvg-rec="3",Беларусь 1
 #EXTGRP:беларускія
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#http://185.156.74.112/iptv/UR6P2GPDBCW6UB/2170/index.m3u8
+http://185.156.74.112/iptv/UR6P2GPDBCW6UB/2170/index.m3u8
 #EXTINF:0 tvg-rec="3",Беларусь 24
 #EXTGRP:беларускія
 http://185.156.74.112/iptv/UR6P2GPDBCW6UB/1061/index.m3u8
@@ -38,7 +37,9 @@ http://185.156.74.112/iptv/UR6P2GPDBCW6UB/532/index.m3u8
 http://185.156.74.112/iptv/UR6P2GPDBCW6UB/512/index.m3u8
 #EXTINF:0 tvg-rec="3",LTV7 HD LV
 #EXTGRP:другие
-http://185.156.74.112/iptv/UR6P2GPDBCW6UB/6354/index.m3u8
+http://tinyurl.com/4ys9y7vv
+#http://185.156.74.112/iptv/UR6P2GPDBCW6UB/6354/index.m3u8
 #EXTINF:0 tvg-rec="3",TV3 LT
 #EXTGRP:другие
-http://185.156.74.112/iptv/UR6P2GPDBCW6UB/6349/index.m3u8
+http://194.204.46.137:80/live/eds/TV3_LT_SD/GO3_LIVE_HLS/TV3_LT_SD.m3u8
+#http://185.156.74.112/iptv/UR6P2GPDBCW6UB/6349/index.m3u8
