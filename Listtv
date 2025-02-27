@@ -41,5 +41,6 @@ http://tinyurl.com/4ys9y7vv
 #http://185.156.74.112/iptv/KCP9ME549HSR4C/6354/index.m3u
 #EXTINF:0 tvg-rec="3",TV3 LT
 #EXTGRP:другие
-http://194.204.46.137:80/live/eds/TV3_LT_SD/GO3_LIVE_HLS/TV3_LT_SD.m3u8
-#http://185.156.74.112/iptv/KCP9ME549HSR4C/6349/index.m3u8
+http://185.156.74.112/iptv/KCP9ME549HSR4C/6349/index.m3u8
+#http://194.204.46.137:80/live/eds/TV3_LT_SD/GO3_LIVE_HLS/TV3_LT_SD.m3u8
+
