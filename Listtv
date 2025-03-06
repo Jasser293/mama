@@ -1,43 +1,45 @@
-#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
-#EXTINF:0 ,Первый канал
-#EXTGRP:Федеральные
-http://46.105.28.18/high/28u6ktvdax/29.mpeg
-#EXTINF:0 ,Россия 1
-#EXTGRP:Федеральные
-http://46.105.28.18/high/28u6ktvdax/33.mpeg
-#EXTINF:0 ,Рен ТВ
-#EXTGRP:Федеральные
-http://46.105.28.18/high/28u6ktvdax/388.mpeg
-#EXTINF:0 ,НТВ
-#EXTGRP:Федеральные
-http://46.105.28.18/high/28u6ktvdax/360.mpeg
-#EXTINF:0 ,ТВЦ
-#EXTGRP:Федеральные
-http://46.105.28.18/high/28u6ktvdax/2076.mpeg
-#EXTINF:0 ,НТВ Право
-#EXTGRP:Познавательные
-http://46.105.28.18/high/28u6ktvdax/340.mpeg
-#EXTINF:0 ,Беларусь 1
-#EXTGRP:Беларусь
-http://46.105.28.18/high/28u6ktvdax/770.mpeg
-#EXTINF:0 ,Беларусь 24
-#EXTGRP:Беларусь
-http://46.105.28.18/high/28u6ktvdax/999.mpeg
-#EXTINF:0 ,Домашний
-#EXTGRP:Федеральные
-http://46.105.28.18/high/28u6ktvdax/14.mpeg
-#EXTINF:0 ,Бобёр
-#EXTGRP:Познавательные
-http://46.105.28.18/high/28u6ktvdax/322.mpeg
-#EXTINF:0 ,Усадьба
+#EXTM3U
+#EXTINF:0 tvg-rec="7",Первый канал HD
+#EXTGRP:HD
+http://185.156.74.112/iptv/KCP9ME549HSR4C/204/index.m3u8
+#EXTINF:0 tvg-rec="7",Россия 1 HD
+#EXTGRP:HD
+http://185.156.74.112/iptv/KCP9ME549HSR4C/205/index.m3u8
+#EXTINF:0 tvg-rec="7",Рен ТВ HD
+#EXTGRP:HD
+http://185.156.74.112/iptv/KCP9ME549HSR4C/2024/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ HD
+#EXTGRP:HD
+http://185.156.74.112/iptv/KCP9ME549HSR4C/213/index.m3u8
+#EXTINF:0 tvg-rec="7",ТВЦ
+#EXTGRP:другие
+http://185.156.74.112/iptv/KCP9ME549HSR4C/520/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ Право
+#EXTGRP:другие
+http://185.156.74.112/iptv/KCP9ME549HSR4C/743/index.m3u8
+#EXTINF:0 tvg-rec="3",Беларусь 1
+#EXTGRP:беларускія
+http://149c2f66.amazzin.pw/iptv/KCP9ME549HSR4C/2178/index.m3u8
+#EXTINF:0 tvg-rec="3",Беларусь 24
+#EXTGRP:беларускія
+http://185.156.74.112/iptv/KCP9ME549HSR4C/1061/index.m3u8
+#EXTINF:0 tvg-rec="7",Домашний
+#EXTGRP:другие
+http://185.156.74.112/iptv/KCP9ME549HSR4C/15116/index.m3u8
+#EXTINF:0 tvg-rec="7",Бобёр
+#EXTGRP:познавательные
+http://185.156.74.112/iptv/KCP9ME549HSR4C/725/index.m3u8
+#EXTINF:0 tvg-rec="7",Усадьба
 #EXTGRP:познавательные
 http://185.156.74.112/iptv/KCP9ME549HSR4C/532/index.m3u8
-#EXTINF:0 ,Доктор
+#EXTINF:0 tvg-rec="7",Доктор
 #EXTGRP:познавательные
 http://185.156.74.112/iptv/KCP9ME549HSR4C/512/index.m3u8
-#EXTINF:0 ,LTV7
-#EXTGRP:Латвия
-http://46.105.28.18/high/28u6ktvdax/2126.mpeg
-#EXTINF:0 ,TV3
+#EXTINF:0 tvg-rec="3",LTV7 HD LV
+#EXTGRP:другие
+http://tinyurl.com/4ys9y7vv
+#http://185.156.74.112/iptv/KCP9ME549HSR4C/6354/index.m3u
+#EXTINF:0 tvg-rec="3",TV3 LT
 #EXTGRP:другие
 http://185.156.74.112/iptv/KCP9ME549HSR4C/6349/index.m3u8
+#http://194.204.46.137:80/live/eds/TV3_LT_SD/GO3_LIVE_HLS/TV3_LT_SD.m3u8
