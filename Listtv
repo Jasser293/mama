@@ -1,34 +1,34 @@
 #EXTM3U
 #EXTINF:0 tvg-rec="7",Первый канал HD
 #EXTGRP:HD
-http://cdntv.online/high/28u6ktvdax/29.mpeg
+http://194.58.96.152/high/28u6ktvdax/29.mpeg
 #EXTINF:0 tvg-rec="7",Россия 1 HD
 #EXTGRP:HD
-http://cdntv.online/high/28u6ktvdax/33.mpeg
+http://194.58.96.152/high/28u6ktvdax/33.mpeg
 #EXTINF:0 tvg-rec="7",Рен ТВ HD
 #EXTGRP:HD
-http://cdntv.online/high/28u6ktvdax/388.mpeg
+http://194.58.96.152/high/28u6ktvdax/388.mpeg
 #EXTINF:0 tvg-rec="7",НТВ HD
 #EXTGRP:HD
-http://cdntv.online/high/28u6ktvdax/360.mpeg
+http://194.58.96.152/high/28u6ktvdax/360.mpeg
 #EXTINF:0 tvg-rec="7",ТВЦ
 #EXTGRP:другие
-http://cdntv.online/high/28u6ktvdax/2076.mpeg
+http://194.58.96.152/high/28u6ktvdax/2076.mpeg
 #EXTINF:0 tvg-rec="7",НТВ Право
 #EXTGRP:другие
-http://cdntv.online/high/28u6ktvdax/340.mpeg
+http://194.58.96.152/high/28u6ktvdax/340.mpeg
 #EXTINF:0 tvg-rec="3",Беларусь 1
 #EXTGRP:беларускія
-http://cdntv.online/high/28u6ktvdax/770.mpeg
+http://194.58.96.152/high/28u6ktvdax/770.mpeg
 #EXTINF:0 tvg-rec="3",Беларусь 24
 #EXTGRP:беларускія
-http://cdntv.online/high/28u6ktvdax/999.mpeg
+http://194.58.96.152/high/28u6ktvdax/999.mpeg
 #EXTINF:0 tvg-rec="7",Домашний
 #EXTGRP:другие
-http://cdntv.online/high/28u6ktvdax/2077.mpeg
+http://194.58.96.152/high/28u6ktvdax/2077.mpeg
 #EXTINF:0 tvg-rec="7",Бобёр
 #EXTGRP:познавательные
-http://cdntv.online/high/28u6ktvdax/322.mpeg
+http://194.58.96.152/high/28u6ktvdax/322.mpeg
 #EXTINF:0 tvg-rec="7",Усадьба
 #EXTGRP:познавательные
 http://195.49.206.244:90/Usadba/mono.m3u8?token=video
@@ -40,4 +40,4 @@ http://188.190.222.53/Doctor/index.m3u8
 http://tinyurl.com/4ys9y7vv
 #EXTINF:0 tvg-rec="3",TV3 LT
 #EXTGRP:другие
-http://cdntv.online/high/28u6ktvdax/2184.mpeg
+http://194.58.96.152/high/28u6ktvdax/2184.mpeg
