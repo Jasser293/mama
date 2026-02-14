@@ -51,5 +51,3 @@ http://46.105.28.18/low/28u6ktvdax/2184.mpeg
 #EXTINF:0 tvg-rec="3",TV3 LT
 #EXTGRP:другие
 #http://93.113.203.165/iptv/KCP9ME549HSR4C/18007/index.m3u8
-#EXTINF:-1 ,SWH+
-https://live.radioswh.lv:8443/swhmp3
