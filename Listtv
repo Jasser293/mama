@@ -1,41 +1,41 @@
 #EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
 #EXTINF:0 tvg-id="14" tvg-logo="http://epg.cdntv.online/img/14.png" catchup="shift" catchup-days="3" timeshift="3" ,Домашний
-http://vipl.one/low/yczvuf6tn3/14.mpeg
+http://vipl.one/low/28u6ktvdax/14.mpeg
 #EXTINF:0 tvg-id="2077" tvg-logo="http://epg.cdntv.online/img/2077.png" catchup="shift" catchup-days="3" timeshift="3" ,Домашний HD
-http://vipl.one/low/yczvuf6tn3/2077.mpeg
+http://vipl.one/low/28u6ktvdax/2077.mpeg
 #EXTINF:0 tvg-id="476" tvg-logo="http://epg.cdntv.online/img/476.png" catchup="shift" catchup-days="3" timeshift="3" ,ТНТ4
-http://vipl.one/low/yczvuf6tn3/476.mpeg
+http://vipl.one/low/28u6ktvdax/476.mpeg
 #EXTINF:0 tvg-id="390" tvg-logo="http://epg.cdntv.online/img/390.png" catchup="shift" catchup-days="3" timeshift="3" ,ТНТ HD
-http://vipl.one/low/yczvuf6tn3/390.mpeg
+http://vipl.one/low/28u6ktvdax/390.mpeg
 #EXTINF:0 tvg-id="19" tvg-logo="http://epg.cdntv.online/img/19.png" catchup="shift" catchup-days="3" timeshift="3" ,ТНТ
-http://vipl.one/low/yczvuf6tn3/19.mpeg
+http://vipl.one/low/28u6ktvdax/19.mpeg
 #EXTINF:0 tvg-id="21" tvg-logo="http://epg.cdntv.online/img/21.png" catchup="shift" catchup-days="3" timeshift="3" ,Че
-http://vipl.one/low/yczvuf6tn3/21.mpeg
+http://vipl.one/low/28u6ktvdax/21.mpeg
 #EXTINF:0 tvg-id="35" tvg-logo="http://epg.cdntv.online/img/35.png" catchup="shift" catchup-days="3" timeshift="3" ,Пятница! HD
-http://vipl.one/low/yczvuf6tn3/35.mpeg
+http://vipl.one/low/28u6ktvdax/35.mpeg
 #EXTINF:0 tvg-id="1061" tvg-logo="http://epg.cdntv.online/img/1061.png" catchup="shift" catchup-days="3" timeshift="3" ,СТС HD
-http://vipl.one/low/yczvuf6tn3/1061.mpeg
+http://vipl.one/low/28u6ktvdax/1061.mpeg
 #EXTINF:0 tvg-id="15" tvg-logo="http://epg.cdntv.online/img/15.png" catchup="shift" catchup-days="3" timeshift="3" ,ТВ3
-http://vipl.one/low/yczvuf6tn3/15.mpeg
+http://vipl.one/low/28u6ktvdax/15.mpeg
 #EXTINF:0 tvg-id="416" tvg-logo="http://epg.cdntv.online/img/416.png" catchup="shift" catchup-days="3" timeshift="3" ,Русский роман HD
-http://vipl.one/low/yczvuf6tn3/416.mpeg
+http://vipl.one/low/28u6ktvdax/416.mpeg
 #EXTINF:0 tvg-id="138" tvg-logo="http://epg.cdntv.online/img/138.png" catchup="shift" catchup-days="3" timeshift="3" ,Русский иллюзион
-http://vipl.one/low/yczvuf6tn3/138.mpeg
+http://vipl.one/low/28u6ktvdax/138.mpeg
 #EXTINF:0 tvg-id="127" tvg-logo="http://epg.cdntv.online/img/127.png" catchup="shift" catchup-days="3" timeshift="3" ,Мир сериала
-http://vipl.one/low/yczvuf6tn3/127.mpeg
+http://vipl.one/low/28u6ktvdax/127.mpeg
 #EXTINF:0 tvg-id="1099" tvg-logo="http://epg.cdntv.online/img/1099.png" catchup="shift" catchup-days="3" timeshift="3" ,Про любовь HD
-http://vipl.one/low/yczvuf6tn3/1099.mpeg
+http://vipl.one/low/28u6ktvdax/1099.mpeg
 #EXTINF:0 tvg-id="1100" tvg-logo="http://epg.cdntv.online/img/1100.png" catchup="shift" catchup-days="3" timeshift="3" ,Камеди HD
-http://vipl.one/low/yczvuf6tn3/1100.mpeg
+http://vipl.one/low/28u6ktvdax/1100.mpeg
 #EXTINF:0 tvg-id="406" tvg-logo="http://epg.cdntv.online/img/406.png" catchup="shift" catchup-days="3" timeshift="3" ,Comedy Central
-http://vipl.one/low/yczvuf6tn3/406.mpeg
+http://vipl.one/low/28u6ktvdax/406.mpeg
 #EXTINF:0 tvg-id="410" tvg-logo="http://epg.cdntv.online/img/410.png" catchup="shift" catchup-days="3" timeshift="3" ,Viju TV1000 HD
-http://vipl.one/low/yczvuf6tn3/410.mpeg
+http://vipl.one/low/28u6ktvdax/410.mpeg
 #EXTINF:0 tvg-id="411" tvg-logo="http://epg.cdntv.online/img/411.png" catchup="shift" catchup-days="3" timeshift="3" ,Viju TV1000 Русское HD
-http://vipl.one/low/yczvuf6tn3/411.mpeg
-#EXTINF:0 tvg-id="414" tvg-logo="http://epg.cdntv.online/img/414.png" catchup="shift" catchup-days="3" timeshift="3" ,Киносемья HD
-http://vipl.one/low/yczvuf6tn3/414.mpeg
+http://vipl.one/low/28u6ktvdax/411.mpeg
+#EXTINF:0 tvg-id="414" tvg-logo="http://epg.cdntv.online/img/414.png" catchup="shift" catchup-days="3" timeshift="3" ,Киносемья
+http://vipl.one/low/28u6ktvdax/414.mpeg
 #EXTINF:0 tvg-id="336" tvg-logo="http://epg.cdntv.online/img/336.png" catchup="shift" catchup-days="3" timeshift="3" ,Кухня ТВ
-http://vipl.one/low/yczvuf6tn3/336.mpeg
+http://vipl.one/low/28u6ktvdax/336.mpeg
 #EXTINF:0 tvg-id="1678" tvg-logo="http://epg.cdntv.online/img/1678.png" ,Лапки LIVE
-http://vipl.one/low/yczvuf6tn3/1678.mpeg
+http://vipl.one/low/28u6ktvdax/1678.mpeg
