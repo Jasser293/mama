@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
-#EXTINF:0 tvg-id="14" tvg-logo="http://epg.cdntv.online/img/14.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Домашний
+#EXTINF:0 tvg-id="14" tvg-logo="http://epg.cdntv.online/img/14.png" catchup="shift" catchup-days="3" timeshift="3" ,Домашний
 http://vipl.one/low/yczvuf6tn3/14.mpeg
 #EXTINF:0 tvg-id="2077" tvg-logo="http://epg.cdntv.online/img/2077.png" catchup="shift" catchup-days="3" timeshift="3" ,Домашний HD
 http://vipl.one/low/yczvuf6tn3/2077.mpeg
