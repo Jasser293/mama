@@ -19,8 +19,6 @@ http://vipl.one/low/yczvuf6tn3/1061.mpeg
 http://vipl.one/low/yczvuf6tn3/15.mpeg
 #EXTINF:0 tvg-id="416" tvg-logo="http://epg.cdntv.online/img/416.png" catchup="shift" catchup-days="3" timeshift="3" ,Русский роман HD
 http://vipl.one/low/yczvuf6tn3/416.mpeg
-#EXTINF:0 tvg-id="418" tvg-logo="http://epg.cdntv.online/img/418.png" catchup="shift" catchup-days="3" timeshift="3" ,Bollywood HD
-http://vipl.one/low/yczvuf6tn3/418.mpeg
 #EXTINF:0 tvg-id="138" tvg-logo="http://epg.cdntv.online/img/138.png" catchup="shift" catchup-days="3" timeshift="3" ,Русский иллюзион
 http://vipl.one/low/yczvuf6tn3/138.mpeg
 #EXTINF:0 tvg-id="127" tvg-logo="http://epg.cdntv.online/img/127.png" catchup="shift" catchup-days="3" timeshift="3" ,Мир сериала
@@ -31,13 +29,13 @@ http://vipl.one/low/yczvuf6tn3/1099.mpeg
 http://vipl.one/low/yczvuf6tn3/1100.mpeg
 #EXTINF:0 tvg-id="406" tvg-logo="http://epg.cdntv.online/img/406.png" catchup="shift" catchup-days="3" timeshift="3" ,Comedy Central
 http://vipl.one/low/yczvuf6tn3/406.mpeg
-#EXTINF:0 tvg-id="409" tvg-logo="http://epg.cdntv.online/img/409.png" catchup="shift" catchup-days="3" timeshift="3" ,Viju TV1000 Action HD
-http://vipl.one/low/yczvuf6tn3/409.mpeg
 #EXTINF:0 tvg-id="410" tvg-logo="http://epg.cdntv.online/img/410.png" catchup="shift" catchup-days="3" timeshift="3" ,Viju TV1000 HD
 http://vipl.one/low/yczvuf6tn3/410.mpeg
 #EXTINF:0 tvg-id="411" tvg-logo="http://epg.cdntv.online/img/411.png" catchup="shift" catchup-days="3" timeshift="3" ,Viju TV1000 Русское HD
 http://vipl.one/low/yczvuf6tn3/411.mpeg
 #EXTINF:0 tvg-id="414" tvg-logo="http://epg.cdntv.online/img/414.png" catchup="shift" catchup-days="3" timeshift="3" ,Киносемья HD
 http://vipl.one/low/yczvuf6tn3/414.mpeg
+#EXTINF:0 tvg-id="336" tvg-logo="http://epg.cdntv.online/img/336.png" catchup="shift" catchup-days="3" timeshift="3" ,Кухня ТВ
+http://vipl.one/low/yczvuf6tn3/336.mpeg
 #EXTINF:0 tvg-id="1678" tvg-logo="http://epg.cdntv.online/img/1678.png" ,Лапки LIVE
 http://vipl.one/low/yczvuf6tn3/1678.mpeg
