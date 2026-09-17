@@ -11,8 +11,12 @@ http://vipl.one/low/yczvuf6tn3/390.mpeg
 http://vipl.one/low/yczvuf6tn3/19.mpeg
 #EXTINF:0 tvg-id="21" tvg-logo="http://epg.cdntv.online/img/21.png" catchup="shift" catchup-days="3" timeshift="3" ,Че
 http://vipl.one/low/yczvuf6tn3/21.mpeg
+#EXTINF:0 tvg-id="35" tvg-logo="http://epg.cdntv.online/img/35.png" catchup="shift" catchup-days="3" timeshift="3" ,Пятница! HD
+http://vipl.one/low/yczvuf6tn3/35.mpeg
 #EXTINF:0 tvg-id="1061" tvg-logo="http://epg.cdntv.online/img/1061.png" catchup="shift" catchup-days="3" timeshift="3" ,СТС HD
 http://vipl.one/low/yczvuf6tn3/1061.mpeg
+#EXTINF:0 tvg-id="15" tvg-logo="http://epg.cdntv.online/img/15.png" catchup="shift" catchup-days="3" timeshift="3" ,ТВ3
+http://vipl.one/low/yczvuf6tn3/15.mpeg
 #EXTINF:0 tvg-id="416" tvg-logo="http://epg.cdntv.online/img/416.png" catchup="shift" catchup-days="3" timeshift="3" ,Русский роман HD
 http://vipl.one/low/yczvuf6tn3/416.mpeg
 #EXTINF:0 tvg-id="418" tvg-logo="http://epg.cdntv.online/img/418.png" catchup="shift" catchup-days="3" timeshift="3" ,Bollywood HD
