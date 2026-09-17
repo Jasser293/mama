@@ -1,2 +1,27 @@
-#EXTM3U
-#EXTIle="Л
+#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
+#EXTINF:0 tvg-id="14" tvg-logo="http://epg.cdntv.online/img/14.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Домашний
+http://vipl.one/low/yczvuf6tn3/14.mpeg
+#EXTINF:0 tvg-id="2077" tvg-logo="http://epg.cdntv.online/img/2077.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Домашний HD
+http://vipl.one/low/yczvuf6tn3/2077.mpeg
+#EXTINF:0 tvg-id="476" tvg-logo="http://epg.cdntv.online/img/476.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Развлекательные", ТНТ4
+http://vipl.one/low/yczvuf6tn3/476.mpeg
+#EXTINF:0 tvg-id="390" tvg-logo="http://epg.cdntv.online/img/390.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Развлекательные", ТНТ HD
+http://vipl.one/low/yczvuf6tn3/390.mpeg
+#EXTINF:0 tvg-id="19" tvg-logo="http://epg.cdntv.online/img/19.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Развлекательные", ТНТ
+http://vipl.one/low/yczvuf6tn3/19.mpeg
+#EXTINF:0 tvg-id="21" tvg-logo="http://epg.cdntv.online/img/21.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Развлекательные", Че
+http://vipl.one/low/yczvuf6tn3/21.mpeg
+#EXTINF:0 tvg-id="416" tvg-logo="http://epg.cdntv.online/img/416.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Русский роман HD
+http://vipl.one/low/yczvuf6tn3/416.mpeg
+#EXTINF:0 tvg-id="418" tvg-logo="http://epg.cdntv.online/img/418.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Bollywood HD
+http://vipl.one/low/yczvuf6tn3/418.mpeg
+#EXTINF:0 tvg-id="416" tvg-logo="http://epg.cdntv.online/img/416.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Русский роман HD
+http://vipl.one/low/yczvuf6tn3/416.mpeg
+#EXTINF:0 tvg-id="138" tvg-logo="http://epg.cdntv.online/img/138.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Русский иллюзион
+http://vipl.one/low/yczvuf6tn3/138.mpeg
+#EXTINF:0 tvg-id="127" tvg-logo="http://epg.cdntv.online/img/127.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Мир сериала
+http://vipl.one/low/yczvuf6tn3/127.mpeg
+#EXTINF:0 tvg-id="1099" tvg-logo="http://epg.cdntv.online/img/1099.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Про любовь HD
+http://vipl.one/low/yczvuf6tn3/1099.mpeg
+#EXTINF:0 tvg-id="1100" tvg-logo="http://epg.cdntv.online/img/1100.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Камеди HD
+http://vipl.one/low/yczvuf6tn3/1100.mpeg
