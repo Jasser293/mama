@@ -15,6 +15,10 @@ http://vipl.one/low/28u6ktvdax/21.mpeg
 http://vipl.one/low/28u6ktvdax/35.mpeg
 #EXTINF:0 tvg-id="1061" tvg-logo="http://epg.cdntv.online/img/1061.png" catchup="shift" catchup-days="3" timeshift="3" ,СТС HD
 http://vipl.one/low/28u6ktvdax/1061.mpeg
+#EXTINF:0 tvg-id="178" tvg-logo="http://epg.cdntv.online/img/178.png" catchup="shift" catchup-days="3" timeshift="3" ,СТС love
+http://vipl.one/low/yczvuf6tn3/178.mpeg
+#EXTINF:0 tvg-id="179" tvg-logo="http://epg.cdntv.online/img/179.png" catchup="shift" catchup-days="3" timeshift="3" ,Сарафан
+http://vipl.one/low/yczvuf6tn3/179.mpeg
 #EXTINF:0 tvg-id="15" tvg-logo="http://epg.cdntv.online/img/15.png" catchup="shift" catchup-days="3" timeshift="3" ,ТВ3
 http://vipl.one/low/28u6ktvdax/15.mpeg
 #EXTINF:0 tvg-id="416" tvg-logo="http://epg.cdntv.online/img/416.png" catchup="shift" catchup-days="3" timeshift="3" ,Русский роман HD
@@ -33,9 +37,5 @@ http://vipl.one/low/28u6ktvdax/406.mpeg
 http://vipl.one/low/28u6ktvdax/410.mpeg
 #EXTINF:0 tvg-id="411" tvg-logo="http://epg.cdntv.online/img/411.png" catchup="shift" catchup-days="3" timeshift="3" ,Viju TV1000 Русское HD
 http://vipl.one/low/28u6ktvdax/411.mpeg
-#EXTINF:0 tvg-id="414" tvg-logo="http://epg.cdntv.online/img/414.png" catchup="shift" catchup-days="3" timeshift="3" ,Киносемья
-http://vipl.one/low/28u6ktvdax/414.mpeg
 #EXTINF:0 tvg-id="336" tvg-logo="http://epg.cdntv.online/img/336.png" catchup="shift" catchup-days="3" timeshift="3" ,Кухня ТВ
 http://vipl.one/low/28u6ktvdax/336.mpeg
-#EXTINF:0 tvg-id="1678" tvg-logo="http://epg.cdntv.online/img/1678.png" ,Лапки LIVE
-http://vipl.one/low/28u6ktvdax/1678.mpeg
