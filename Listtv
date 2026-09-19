@@ -39,3 +39,7 @@ http://vipl.one/low/28u6ktvdax/411.mpeg
 http://vipl.one/low/28u6ktvdax/336.mpeg
 #EXTINF:0 tvg-id="2144" tvg-logo="http://epg.cdntv.online/img/2144.png" ,TV3 Plus HD LV
 http://vipl.one/low/28u6ktvdax/2144.mpeg
+#EXTINF:0 tvg-id="1" tvg-logo="http://epg.cdntv.online/img/1.png" ,Первый канал
+http://vipl.one/low/28u6ktvdax/1.mpeg
+#EXTINF:0 tvg-id="2" tvg-logo="http://epg.cdntv.online/img/2.png" ,Россия 1
+http://vipl.one/low/28u6ktvdax/2.mpeg
