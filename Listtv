@@ -31,8 +31,6 @@ http://vipl.one/low/28u6ktvdax/127.mpeg
 http://vipl.one/low/28u6ktvdax/1099.mpeg
 #EXTINF:0 tvg-id="1100" tvg-logo="http://epg.cdntv.online/img/1100.png" ,Камеди HD
 http://vipl.one/low/28u6ktvdax/1100.mpeg
-#EXTINF:0 tvg-id="406" tvg-logo="http://epg.cdntv.online/img/406.png" ,Comedy Central
-http://vipl.one/low/28u6ktvdax/406.mpeg
 #EXTINF:0 tvg-id="410" tvg-logo="http://epg.cdntv.online/img/410.png" ,Viju TV1000 HD
 http://vipl.one/low/28u6ktvdax/410.mpeg
 #EXTINF:0 tvg-id="411" tvg-logo="http://epg.cdntv.online/img/411.png" ,Viju TV1000 Русское HD
@@ -42,6 +40,6 @@ http://vipl.one/low/28u6ktvdax/336.mpeg
 #EXTINF:0 tvg-id="2144" tvg-logo="http://epg.cdntv.online/img/2144.png" ,TV3 Plus HD LV
 http://vipl.one/low/28u6ktvdax/2144.mpeg
 #EXTINF:0 tvg-id="2141" tvg-logo="http://epg.cdntv.online/img/2141.png" ,TV3 HD LV
-http://vipl.one/low/28u6ktvdax/2141.mpeg
+https://vipl.one/high/28u6ktvdax/2141.m3u8
 #EXTINF:0 tvg-id="2126" tvg-logo="http://epg.cdntv.online/img/2126.png" ,LTV7 HD
-http://vipl.one/low/28u6ktvdax/2126.mpeg
+https://vipl.one/hls/28u6ktvdax/2126.m3u
