@@ -43,5 +43,11 @@ http://vipl.one/low/28u6ktvdax/410.mpeg
 http://vipl.one/low/28u6ktvdax/411.mpeg
 #EXTINF:0 tvg-id="336" tvg-logo="http://epg.cdntv.online/img/336.png" ,Кухня ТВ
 http://vipl.one/low/28u6ktvdax/336.mpeg
+#EXTINF:0 tvg-id="987" tvg-logo="http://epg.cdntv.online/img/987.png" ,History
+http://vipl.one/low/28u6ktvdax/987.mpeg
+#EXTINF:0 tvg-id="295" tvg-logo="http://epg.cdntv.online/img/295.png" ,Animal Planet
+http://vipl.one/low/28u6ktvdax/295.mpeg
+#EXTINF:0 tvg-id="169" tvg-logo="http://epg.cdntv.online/img/169.png" ,TLC
+http://vipl.one/low/28u6ktvdax/169.mpeg
 #EXTINF:0 tvg-id="2144" tvg-logo="http://epg.cdntv.online/img/2144.png" ,TV3 Plus HD LV
 http://vipl.one/low/28u6ktvdax/2144.mpeg
