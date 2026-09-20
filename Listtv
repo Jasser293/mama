@@ -17,6 +17,8 @@ http://vipl.one/low/28u6ktvdax/35.mpeg
 http://vipl.one/low/28u6ktvdax/1061.mpeg
 #EXTINF:0 tvg-id="178" tvg-logo="http://epg.cdntv.online/img/178.png" ,СТС love
 http://vipl.one/low/28u6ktvdax/178.mpeg
+#EXTINF:0 tvg-id="185" tvg-logo="http://epg.cdntv.online/img/185.png" ,Ю
+http://vipl.one/low/28u6ktvdax/185.mpeg
 #EXTINF:0 tvg-id="179" tvg-logo="http://epg.cdntv.online/img/179.png" ,Сарафан
 http://vipl.one/low/28u6ktvdax/179.mpeg
 #EXTINF:0 tvg-id="15" tvg-logo="http://epg.cdntv.online/img/15.png" ,ТВ3
