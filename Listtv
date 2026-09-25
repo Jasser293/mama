@@ -41,8 +41,6 @@ http://vipl.one/hls/28u6ktvdax/1100.m3u8
 http://vipl.one/hls/28u6ktvdax/410.m3u8
 #EXTINF:0 tvg-id="411" tvg-logo="http://epg.cdntv.online/img/411.png" ,Viju TV1000 Русское HD
 http://vipl.one/hls/28u6ktvdax/411.m3u8
-#EXTINF:0 tvg-id="451" tvg-logo="http://epg.cdntv.online/img/451.png",Здоровое ТВ
-http://vipl.one/high/28u6ktvdax/451.m3u8
 #EXTINF:-1 ,Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:0 tvg-id="336" tvg-logo="http://epg.cdntv.online/img/336.png" ,Кухня ТВ
