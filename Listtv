@@ -1,57 +1,59 @@
 #EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
 #EXTINF:0 tvg-id="14" tvg-logo="http://epg.cdntv.online/img/14.png" ,Домашний
-http://vipl.one/low/28u6ktvdax/14.mpeg
+http://vipl.one/hls/28u6ktvdax/14.m3u8
 #EXTINF:0 tvg-id="2077" tvg-logo="http://epg.cdntv.online/img/2077.png" ,Домашний HD
-http://vipl.one/low/28u6ktvdax/2077.mpeg
+http://vipl.one/hls/28u6ktvdax/2077.m3u8
 #EXTINF:0 tvg-id="476" tvg-logo="http://epg.cdntv.online/img/476.png" ,ТНТ4
-http://vipl.one/low/28u6ktvdax/476.mpeg
+http://vipl.one/hls/28u6ktvdax/476.m3u8
 #EXTINF:0 tvg-id="390" tvg-logo="http://epg.cdntv.online/img/390.png" ,ТНТ HD
-http://vipl.one/low/28u6ktvdax/390.mpeg
+http://vipl.one/hls/28u6ktvdax/390.m3u8
 #EXTINF:0 tvg-id="19" tvg-logo="http://epg.cdntv.online/img/19.png" ,ТНТ
-http://vipl.one/low/28u6ktvdax/19.mpeg
+http://vipl.one/hls/28u6ktvdax/19.m3u8
 #EXTINF:0 tvg-id="21" tvg-logo="http://epg.cdntv.online/img/21.png" ,Че
-http://vipl.one/low/28u6ktvdax/21.mpeg
+http://vipl.one/hls/28u6ktvdax/21.m3u8
 #EXTINF:0 tvg-id="35" tvg-logo="http://epg.cdntv.online/img/35.png" ,Пятница! HD
-http://vipl.one/low/28u6ktvdax/35.mpeg
+http://vipl.one/hls/28u6ktvdax/35.m3u8
 #EXTINF:0 tvg-id="1061" tvg-logo="http://epg.cdntv.online/img/1061.png" ,СТС HD
-http://vipl.one/low/28u6ktvdax/1061.mpeg
+http://vipl.one/hls/28u6ktvdax/1061.m3u8
 #EXTINF:0 tvg-id="178" tvg-logo="http://epg.cdntv.online/img/178.png" ,СТС love
-http://vipl.one/low/28u6ktvdax/178.mpeg
+http://vipl.one/hls/28u6ktvdax/178.m3u8
 #EXTINF:0 tvg-id="185" tvg-logo="http://epg.cdntv.online/img/185.png" ,Ю
-http://vipl.one/low/28u6ktvdax/185.mpeg
+http://vipl.one/hls/28u6ktvdax/185.m3u8
 #EXTINF:0 tvg-id="179" tvg-logo="http://epg.cdntv.online/img/179.png" ,Сарафан
-http://vipl.one/low/28u6ktvdax/179.mpeg
+http://vipl.one/hls/28u6ktvdax/179.m3u8
 #EXTINF:0 tvg-id="15" tvg-logo="http://epg.cdntv.online/img/15.png" ,ТВ3
-http://vipl.one/low/28u6ktvdax/15.mpeg
+http://vipl.one/hls/28u6ktvdax/15.m3u8
 #EXTINF:0 tvg-id="416" tvg-logo="http://epg.cdntv.online/img/416.png" ,Русский роман HD
-http://vipl.one/low/28u6ktvdax/416.mpeg
+http://vipl.one/hls/28u6ktvdax/416.m3u8
 #EXTINF:0 tvg-id="138" tvg-logo="http://epg.cdntv.online/img/138.png" ,Русский иллюзион
-http://vipl.one/low/28u6ktvdax/138.mpeg
+http://vipl.one/hls/28u6ktvdax/138.m3u8
 #EXTINF:0 tvg-id="135" tvg-logo="http://epg.cdntv.online/img/135.png" ,Русский Бестселлер
-http://vipl.one/low/28u6ktvdax/135.mpeg
+http://vipl.one/hls/28u6ktvdax/135.m3u8
 #EXTINF:0 tvg-id="137" tvg-logo="http://epg.cdntv.online/img/137.png" ,Русский детектив
-http://vipl.one/high/28u6ktvdax/137.m3u8
+http://vipl.one/hls/28u6ktvdax/137.m3u8
 #EXTINF:0 tvg-id="127" tvg-logo="http://epg.cdntv.online/img/127.png" ,Мир сериала
-http://vipl.one/low/28u6ktvdax/127.mpeg
+http://vipl.one/hls/28u6ktvdax/127.m3u8
 #EXTINF:0 tvg-id="1099" tvg-logo="http://epg.cdntv.online/img/1099.png" ,Про любовь HD
-http://vipl.one/low/28u6ktvdax/1099.mpeg
+http://vipl.one/hls/28u6ktvdax/1099.m3u8
 #EXTINF:0 tvg-id="1100" tvg-logo="http://epg.cdntv.online/img/1100.png" ,Камеди HD
-http://vipl.one/low/28u6ktvdax/1100.mpeg
+http://vipl.one/hls/28u6ktvdax/1100.m3u8
 #EXTINF:0 tvg-id="410" tvg-logo="http://epg.cdntv.online/img/410.png" ,Viju TV1000 HD
-http://vipl.one/low/28u6ktvdax/410.mpeg
+http://vipl.one/hls/28u6ktvdax/410.m3u8
 #EXTINF:0 tvg-id="411" tvg-logo="http://epg.cdntv.online/img/411.png" ,Viju TV1000 Русское HD
-http://vipl.one/low/28u6ktvdax/411.mpeg
+http://vipl.one/hls/28u6ktvdax/411.m3u8
+#EXTINF:0 tvg-id="451" tvg-logo="http://epg.cdntv.online/img/451.png",Здоровое ТВ
+http://vipl.one/high/28u6ktvdax/451.m3u8
 #EXTINF:-1 ,Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:0 tvg-id="336" tvg-logo="http://epg.cdntv.online/img/336.png" ,Кухня ТВ
-http://vipl.one/low/28u6ktvdax/336.mpeg
+http://vipl.one/hls/28u6ktvdax/336.m3u8
 #EXTINF:0 tvg-id="448" tvg-logo="http://epg.cdntv.online/img/448.png" ,Глазами туриста
 http://vipl.one/high/28u6ktvdax/448.m3u8
 #EXTINF:0 tvg-id="987" tvg-logo="http://epg.cdntv.online/img/987.png" ,History
-http://vipl.one/low/28u6ktvdax/987.mpeg
+http://vipl.one/hls/28u6ktvdax/987.m3u8
 #EXTINF:0 tvg-id="295" tvg-logo="http://epg.cdntv.online/img/295.png" ,Animal Planet
-http://vipl.one/low/28u6ktvdax/295.mpeg
+http://vipl.one/hls/28u6ktvdax/295.m3u8
 #EXTINF:0 tvg-id="169" tvg-logo="http://epg.cdntv.online/img/169.png" ,TLC
-http://vipl.one/low/28u6ktvdax/169.mpeg
+http://vipl.one/hls/28u6ktvdax/169.m3u8
 #EXTINF:0 tvg-id="2144" tvg-logo="http://epg.cdntv.online/img/2144.png" ,TV3 Plus HD LV
-http://vipl.one/low/28u6ktvdax/2144.mpeg
+http://vipl.one/hls/28u6ktvdax/2144.m3u8
