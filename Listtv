@@ -45,10 +45,12 @@ http://vipl.one/hls/28u6ktvdax/411.m3u8
 http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:0 tvg-id="336" tvg-logo="http://epg.cdntv.online/img/336.png" ,Кухня ТВ
 http://vipl.one/hls/28u6ktvdax/336.m3u8
+#EXTINF:0 tvg-id="322" tvg-logo="http://epg.cdntv.online/img/322.png" ,Бобёр
+http://vipl.one/hls/28u6ktvdax/322.m3u8
+#EXTINF:0 tvg-id="299" tvg-logo="http://epg.cdntv.online/img/299.png" ,Discovery
+http://vipl.one/hls/28u6ktvdax/299.m3u8
 #EXTINF:0 tvg-id="448" tvg-logo="http://epg.cdntv.online/img/448.png" ,Глазами туриста
 http://vipl.one/high/28u6ktvdax/448.m3u8
-#EXTINF:0 tvg-id="987" tvg-logo="http://epg.cdntv.online/img/987.png" ,History
-http://vipl.one/hls/28u6ktvdax/987.m3u8
 #EXTINF:0 tvg-id="295" tvg-logo="http://epg.cdntv.online/img/295.png" ,Animal Planet
 http://vipl.one/hls/28u6ktvdax/295.m3u8
 #EXTINF:0 tvg-id="169" tvg-logo="http://epg.cdntv.online/img/169.png" ,TLC
