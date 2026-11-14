@@ -39,6 +39,8 @@ http://vipl.one/hls/28u6ktvdax/137.m3u8
 http://vipl.one/hls/28u6ktvdax/127.m3u8
 #EXTINF:0 tvg-id="1099" tvg-logo="http://epg.cdntv.online/img/1099.png" ,Про любовь HD
 http://vipl.one/hls/28u6ktvdax/1099.m3u8
+#EXTINF:0 tvg-id="1099" tvg-logo="http://epg.cdntv.online/img/1099.png" ,Душевное
+http://vipl.one/high/28u6ktvdax/903.m3u8
 #EXTINF:0 tvg-id="1100" tvg-logo="http://epg.cdntv.online/img/1100.png" ,Камеди HD
 http://vipl.one/hls/28u6ktvdax/1100.m3u8
 #EXTINF:0 tvg-id="410" tvg-logo="http://epg.cdntv.online/img/410.png" ,Viju TV1000 HD
